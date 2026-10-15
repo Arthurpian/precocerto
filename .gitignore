@@ -1,0 +1,6 @@
+# segredos: nunca subir para o GitHub
+.env
+# gerado ao rodar
+historico.csv
+__pycache__/
+.venv/
