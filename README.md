@@ -1,3 +1,11 @@
+# Grupo
+
+Márcio Gastaldi - RM98811  , 
+Arthur Bessa Pian - RM99215  ,
+Davi Desenzi - RM550849  ,
+João Victor - RM551410  ,
+
+
 # 💸 Preço Certo: monitor de preços com alerta no Telegram
 
 Uma automação em Python que acompanha o preço de produtos em várias lojas online e manda uma mensagem no Telegram quando algum produto chega no preço que você quer pagar.
