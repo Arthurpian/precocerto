@@ -1,10 +1,10 @@
 # Grupo
 
-Márcio Gastaldi - RM98811  , 
-Arthur Bessa Pian - RM99215  ,
-Davi Desenzi - RM550849  ,
-João Victor - RM551410  ,
-
+Márcio Gastaldi - RM98811.
+Arthur Bessa Pian - RM99215.
+Davi Desenzi - RM550849.
+João Victor - RM551410.
+Fabrício Gutierrez Saavedra - RM97631.
 
 # 💸 Preço Certo: monitor de preços com alerta no Telegram
 
